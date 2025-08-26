@@ -1,0 +1,3 @@
+cmd
+conda activate python_3.10.14
+python app.py 
